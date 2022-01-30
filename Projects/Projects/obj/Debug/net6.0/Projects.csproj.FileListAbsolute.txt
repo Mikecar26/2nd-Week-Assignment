@@ -1,0 +1,15 @@
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.AssemblyInfoInputs.cache
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.AssemblyInfo.cs
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.csproj.CoreCompileInputs.cache
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\Projects.exe
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\Projects.deps.json
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\Projects.runtimeconfig.json
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\Projects.dll
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\ref\Projects.dll
+D:\School\Game Sim\Projects\Projects\bin\Debug\net6.0\Projects.pdb
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.dll
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\ref\Projects.dll
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.pdb
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.genruntimeconfig.cache
+D:\School\Game Sim\Projects\Projects\obj\Debug\net6.0\Projects.csproj.AssemblyReference.cache
